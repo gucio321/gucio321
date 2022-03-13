@@ -11,5 +11,10 @@ taking part in <a href="https://t3g.pl">Turniej Trójgamiczny</a> competition.<b
 I'm also helping with <a href="github.com/AllenDang/giu">giu</a> development.
 GIU is a nice golang framework - wrapper of <a href="https://github.com/inkyblackness/imgui-go">imgui-go</a>
 that is <a href="https://github.com/ocornut/imgui">Dear ImGUI</a>'s implementation 
-in <a href="https://go.dev">golang</a>.
+in <a href="https://go.dev">golang</a>.<br><br>
+If you're a High-School student from Poland, I'd also want to check out my
+<a href="https://gucio321.github.io/fizyka">website with physics exercises</a>.
+Let me know what do you think about it! Also, if you're interessted in
+re-activating the website or contributing to it, post
+<a href="https://github.com/gucio321/fizyka/discussions/5">In a discussion here</a>!
 </p>
