@@ -8,7 +8,7 @@
 Att the moment, I'm a part of team working on Unity project.
 <a href="https://neonKnights.github.io/sCHEMe-website">S(CHEM)E</a> is a game
 taking part in <a href="https://t3g.pl">Turniej Trójgamiczny</a> competition.<br><br>
-I'm also helping with <a href="github.com/AllenDang/giu">giu</a> development.
+I'm also helping with <a href="https://github.com/AllenDang/giu">giu</a> development.
 GIU is a nice golang framework - wrapper of <a href="https://github.com/inkyblackness/imgui-go">imgui-go</a>
 that is <a href="https://github.com/ocornut/imgui">Dear ImGUI</a>'s implementation 
 in <a href="https://go.dev">golang</a>.<br><br>
