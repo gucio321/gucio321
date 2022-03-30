@@ -1,4 +1,5 @@
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gucio321&color=blue&style=for-the-badge" alt="Profile Views counter" width=450px />
   <img src="https://github-readme-stats.vercel.app/api?username=gucio321&theme=blue-green&bg_color=90,137c15,175a71&title_color=fff&text_color=fff&count_private=true&show_icons=true&custom_title=Stats%20of%20gucio321%20aka%20M.Sz.&hide_border=true" width=450px alt="My GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gucio321&theme=blue-green&bg_color=90,175a71,137c15&title_color=fff&text_color=fff&count_private=true&show_icons=true&custom_title=Top%20Languages%20of%20gucio321&hide_border=true" width=450px alt="Top Languages"/>
 </p>
