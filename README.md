@@ -21,3 +21,28 @@ Let me know what do you think about it! Also, if you're interessted in
 re-activating the website or contributing to it, post
 <a href="https://github.com/gucio321/fizyka/discussions/5">In a discussion here</a>!
 </p>
+
+# Future projects
+
+<table>
+<th>Description</th>
+<th>API description/example</th>
+<th>Temporary name</th>
+<th>language</th>
+<tr>
+    <td>poll framework written with Go and ImGui</td>
+    <td>
+        <pre>
+            <code>
+            Poll().
+                Page("page 1").
+                Question(QuestionTypeText, "What do you think about gucio321?").
+                Page("page 2").
+                Question(QuestionTypeCheckbox, "is your previous answer right?")
+            </code>
+        </pre>
+    </td>
+    <td>maybe somethink like <code>ankyeter</code></td>
+    <td>ofc golang</td>
+</tr>
+</table>
