@@ -8,9 +8,6 @@
  
 <h1 align="center">What am I working on</h1>
 <p align="center">
-Att the moment, I'm a part of team working on Unity project.
-<a href="https://neonKnights.github.io/sCHEMe-website">S(CHEM)E</a> is a game
-taking part in <a href="https://t3g.pl">Turniej Trójgamiczny</a> competition.<br><br>
 I'm also helping with <a href="https://github.com/AllenDang/giu">giu</a> development.
 GIU is a nice golang framework - wrapper of <a href="https://github.com/inkyblackness/imgui-go">imgui-go</a>
 that is <a href="https://github.com/ocornut/imgui">Dear ImGUI</a>'s implementation 
@@ -21,28 +18,3 @@ Let me know what do you think about it! Also, if you're interessted in
 re-activating the website or contributing to it, post
 <a href="https://github.com/gucio321/fizyka/discussions/5">In a discussion here</a>!
 </p>
-
-# Future projects
-
-<table>
-<th>Description</th>
-<th>API description/example</th>
-<th>Temporary name</th>
-<th>language</th>
-<tr>
-    <td>poll framework written with Go and ImGui</td>
-    <td>
-        <pre>
-            <code>
-            Poll().
-                Page("page 1").
-                Question(QuestionTypeText, "What do you think about gucio321?").
-                Page("page 2").
-                Question(QuestionTypeCheckbox, "is your previous answer right?")
-            </code>
-        </pre>
-    </td>
-    <td>maybe somethink like <code>ankyeter</code></td>
-    <td>ofc golang</td>
-</tr>
-</table>
