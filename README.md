@@ -7,14 +7,22 @@
 </div>
  
 <h1 align="center">What am I working on</h1>
-<p align="center">
-I'm also helping with <a href="https://github.com/AllenDang/giu">giu</a> development.
-GIU is a nice golang framework - wrapper of <a href="https://github.com/inkyblackness/imgui-go">imgui-go</a>
+
+Hi! \
+My name is Maciej. I'm a student on the [Akademia Górniczo-Hutnicza](https://agh.edu.pl) university.
+
+The most important things I'm currently working on:
+- [giu](https://github.com/AllenDang/giu) development.
+GIU is a nice golang framework - wrapper of <a href="https://github.com/AllenDang/cimgui-go">cimgui-go</a>
 that is <a href="https://github.com/ocornut/imgui">Dear ImGUI</a>'s implementation 
-in <a href="https://go.dev">golang</a>.<br><br>
-If you're a High-School student from Poland, I'd also want to check out my
+in <a href="https://go.dev">golang</a>.
+- [cimgui-go](https://github.com/AllenDang/cimgui-go) is also one of projects I'm working with.
+This binding is auto-generated, so its extremely easy to keep up with the newest code from Dear ImGui.
+Unfortunatley generator's code still needs improvements.
+- If you're a High-School student from Poland, I'd also want to check out my
 <a href="https://gucio321.github.io/fizyka">website with physics exercises</a>.
 Let me know what do you think about it! Also, if you're interessted in
 re-activating the website or contributing to it, post
 <a href="https://github.com/gucio321/fizyka/discussions/5">In a discussion here</a>!
-</p>
+- Recently I've also added a chapter for my collage course on the previously mentioned website.
+- I'v ealso launched a new website for advanced math course. [See here](https://gucio321.github.io/matematyka).
