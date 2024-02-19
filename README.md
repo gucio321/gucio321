@@ -26,3 +26,22 @@ re-activating the website or contributing to it, post
 <a href="https://github.com/gucio321/fizyka/discussions/5">In a discussion here</a>!
 - Recently I've also added a chapter for my collage course on the previously mentioned website.
 - I'v ealso launched a new website for advanced math course. [See here](https://gucio321.github.io/matematyka).
+
+# Timeline
+
++----------------------+------------------------------------------------------------------------------+
+| Time                 | Description                                                                  |
++----------------------+------------------------------------------------------------------------------+
+| 05.11-13.06.2020     | The first project I contributed to was (currently archived)                  |
+| OpenDiablo2 project  | [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2).                   |
+|                      | Thats where I lerned golang and, in fact, how to write code.                 |
+|                      | I lerned `git` basics and chose my first code editor - VIM                   |
+|                      | with the amazing extension [vim-go](https://github.com/fatih/vim-go).        |
+|                      |                                                                              |
+|                      | My work on OpenDiablo2 ended when the maintainer of the project              |
+|                      | to hold work on it and completely change our approach to                     |
+|                      | the project. Thats how                                                       |
+|                      | [AbyssEngine (go)](https://github.com/OpenDiablo2/AbyssEngine)               |
+|                      | was started but never finished. Now OpenDiablo2 team works on C++            |
+|                      | implementation of [Abyss Engine](https://github.com/AbyssEngine/AbyssEngine) |
++----------------------+------------------------------------------------------------------------------+
