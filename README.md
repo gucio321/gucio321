@@ -29,19 +29,43 @@ re-activating the website or contributing to it, post
 
 # Timeline
 
-+----------------------+------------------------------------------------------------------------------+
-| Time                 | Description                                                                  |
-+----------------------+------------------------------------------------------------------------------+
-| 05.11-13.06.2020     | The first project I contributed to was (currently archived)                  |
-| OpenDiablo2 project  | [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2).                   |
-|                      | Thats where I lerned golang and, in fact, how to write code.                 |
-|                      | I lerned `git` basics and chose my first code editor - VIM                   |
-|                      | with the amazing extension [vim-go](https://github.com/fatih/vim-go).        |
-|                      |                                                                              |
-|                      | My work on OpenDiablo2 ended when the maintainer of the project              |
-|                      | to hold work on it and completely change our approach to                     |
-|                      | the project. Thats how                                                       |
-|                      | [AbyssEngine (go)](https://github.com/OpenDiablo2/AbyssEngine)               |
-|                      | was started but never finished. Now OpenDiablo2 team works on C++            |
-|                      | implementation of [Abyss Engine](https://github.com/AbyssEngine/AbyssEngine) |
-+----------------------+------------------------------------------------------------------------------+
++-----------------------+------------------------------------------------------------------------------+
+| Time                  | Description                                                                  |
++-----------------------+------------------------------------------------------------------------------+
+| 05.11-13.06.2020      | The first project I contributed to was (currently archived)                  |
+| OpenDiablo2 project   | [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2).                   |
+|                       | Thats where I lerned golang and, in fact, how to write code.                 |
+|                       | I lerned `git` basics and chose my first code editor - VIM                   |
+|                       | with the amazing extension [vim-go](https://github.com/fatih/vim-go).        |
+|                       |                                                                              |
+|                       | My work on OpenDiablo2 ended when the maintainer of the project              |
+|                       | to hold work on it and completely change our approach to                     |
+|                       | the project. Thats how                                                       |
+|                       | [AbyssEngine (go)](https://github.com/OpenDiablo2/AbyssEngine)               |
+|                       | was started but never finished. Now OpenDiablo2 team works on C++            |
+|                       | implementation of [Abyss Engine](https://github.com/AbyssEngine/AbyssEngine) |
++-----------------------+------------------------------------------------------------------------------+
+| 13.01-31.07.2021      | HellSpawner](https://github.com/OpenDiablo2/HellSpawner)                     |
+| HellSpawner           | was intented to be a toolchain for OpenDiablo2 project.                      |
+|                       | It used reverse-enginered libraries from OpenDiablo2 to display content of   |
+|                       | game files.                                                                  |
+|                       | HellSpawner was discontinued for some unspecified reason.                    |
++-----------------------+------------------------------------------------------------------------------+
+| 10.05.2021-07.03.2022 | [d2d2s](https://github.com/gucio321/d2d2s) was a Diablo II Save Files        |
+| Diablo II Save files  | parser. After some time I've decided to write editor for that. Some parts    |
+| parser and editor.    | of this project are not finished yet.                                        |
+|                       | This project helped me improve my reverse-engineering skills as well as      |
+|                       | data manipulation in GO. Whats interessting is that many of things in these  |
+|                       | were written in bit-aligned fields, and GO is not adjusted for these type of |
+|                       | data, so I've also used how to use bit operator `<<`, `>>`.                  |
++-----------------------+------------------------------------------------------------------------------+
+| 10.03.2021 until now  | During HellSpawner development, I found another interessting project -       |
+| GIU - UI Framework    | [giu](https://github.com/AllenDang/giu). At the beginning of my contribution |
+| for GO                | I was mainly adding improvements related to my Hell Spawner work. But when   |
+|                       | Hell Spawner collapsed, I've decided to start more active development in     |
+|                       | giu.                                                                         |
+|                       | After the author of giu - [@AllenDang](https://github.com/ALlenDang) started |
+|                       | cimgui-go project, I did a migration of giu from                             |
+|                       | [imgui-go](https://github.com/inkyblackness/imgui-go) to cimgui-go           |
+|                       | Now I'm a paintainer of giu and I'm fixing some bugs related to cimgui-go    |
++-----------------------+------------------------------------------------------------------------------+
