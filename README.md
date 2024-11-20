@@ -72,13 +72,14 @@ parser and editor.
 
 <td>
 
-[d2d2s](https://github.com/gucio321/d2d2s) was a Diablo II Save Files
+[d2d2s](https://github.com/gucio321/d2d2s) was my presonal initiative.
+It is a Diablo II Save Files
 parser. After some time I've decided to write editor for that. Some parts
 of this project are not finished yet.
 This project helped me improve my reverse-engineering skills as well as
-data manipulation in GO. Whats interessting is that many of things in these
+data manipulation in GO. Whats interessting is that many of things in the format
 were written in bit-aligned fields, and GO is not adjusted for these type of
-data, so I've also used how to use bit operator `<<`, `>>`.
+data, so I've also learned how to use bit operator `<<`, `>>`.
 
 <tr><td>
 
@@ -88,14 +89,30 @@ for GO
 
 <td>
 
-During HellSpawner development, I found another interessting project -
-[giu](https://github.com/AllenDang/giu). At the beginning of my contribution
-I was mainly adding improvements related to my Hell Spawner work. But when
+The major HellSpawner's dependency (responsible for UI stuff) was [giu](https://github.com/AllenDang/giu).
+At the beginning of my contribution
+I was mainly adding improvements related to my HellSpawner work. But when
 Hell Spawner collapsed, I've decided to start more active development in
 giu.
 After the author of giu - [@AllenDang](https://github.com/ALlenDang) started
-cimgui-go project, I did a migration of giu from
+the cimgui-go project, I did a migration of giu from
 [imgui-go](https://github.com/inkyblackness/imgui-go) to cimgui-go
-Now I'm a paintainer of giu and I'm fixing some bugs related to cimgui-go
+Now I'm a paintainer of giu.
+
+<tr><td>
+
+01.06.2022 until now
+cimgui-go - Dear ImGui wrapper for go
+
+<td>
+
+Since December 31 2022, [cimgui-go](https://github.com/AllenDang/cimgui-go)
+is the only developed [Dear ImGui](https://github.com/ocornut/imgui)
+wrapper for go.
+I'm a maintainer of this project too.
+
+During its development, I've learned many interessting things
+about C++, C and cgo itself. I've also implemented converting
+go closures to C callbacks "convertion" (Which I hope noone used earlier).
 
 </table>
