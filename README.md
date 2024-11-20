@@ -45,11 +45,12 @@ I lerned `git` basics and chose my first code editor - VIM
 with the amazing extension [vim-go](https://github.com/fatih/vim-go).
 
 My work on OpenDiablo2 ended when the maintainer of the project
-to hold work on it and completely change our approach to
+decided to hold work on it and completely change our approach to
 the project. Thats how
 [AbyssEngine (go)](https://github.com/OpenDiablo2/AbyssEngine)
-was started but never finished. Now OpenDiablo2 team works on C++
-implementation of [Abyss Engine](https://github.com/AbyssEngine/AbyssEngine)
+was started but never finished. Now OpenDiablo2 team worked on a C++
+implementation of [Abyss Engine](https://github.com/AbyssEngine/AbyssEngine) for a while, but
+after some time the project collapsed annd the team was disbanded.
 
 <tr><td>
 
@@ -57,7 +58,7 @@ implementation of [Abyss Engine](https://github.com/AbyssEngine/AbyssEngine)
 
 <td>
 
-HellSpawner](https://github.com/OpenDiablo2/HellSpawner)
+[HellSpawner](https://github.com/OpenDiablo2/HellSpawner)
 was intented to be a toolchain for OpenDiablo2 project.
 It used reverse-enginered libraries from OpenDiablo2 to display content of
 game files.
