@@ -26,3 +26,93 @@ re-activating the website or contributing to it, post
 <a href="https://github.com/gucio321/fizyka/discussions/5">In a discussion here</a>!
 - Recently I've also added a chapter for my collage course on the previously mentioned website.
 - I'v ealso launched a new website for advanced math course. [See here](https://gucio321.github.io/matematyka).
+
+# Timeline
+
+<table>
+<tr>
+<td>Time<td>Description
+<tr><td>
+
+05.11-13.06.2020 OpenDiablo2 projects
+
+<td>
+
+The first project I contributed to was (currently archived)
+[OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2). 
+Thats where I lerned golang and, in fact, how to write code.
+I lerned `git` basics and chose my first code editor - VIM
+with the amazing extension [vim-go](https://github.com/fatih/vim-go).
+
+My work on OpenDiablo2 ended when the maintainer of the project
+decided to hold work on it and completely change our approach to
+the project. Thats how
+[AbyssEngine (go)](https://github.com/OpenDiablo2/AbyssEngine)
+was started but never finished. Now OpenDiablo2 team worked on a C++
+implementation of [Abyss Engine](https://github.com/AbyssEngine/AbyssEngine) for a while, but
+after some time the project collapsed annd the team was disbanded.
+
+<tr><td>
+
+13.01-31.07.2021 HellSpawner
+
+<td>
+
+[HellSpawner](https://github.com/OpenDiablo2/HellSpawner)
+was intented to be a toolchain for OpenDiablo2 project.
+It used reverse-enginered libraries from OpenDiablo2 to display content of
+game files.
+HellSpawner was discontinued for some unspecified reason.
+
+<tr><td>
+
+10.05.2021-07.03.2022
+Diablo II Save files  
+parser and editor. 
+
+<td>
+
+[d2d2s](https://github.com/gucio321/d2d2s) was my presonal initiative.
+It is a Diablo II Save Files
+parser. After some time I've decided to write editor for that. Some parts
+of this project are not finished yet.
+This project helped me improve my reverse-engineering skills as well as
+data manipulation in GO. Whats interessting is that many of things in the format
+were written in bit-aligned fields, and GO is not adjusted for these type of
+data, so I've also learned how to use bit operator `<<`, `>>`.
+
+<tr><td>
+
+10.03.2021 until now
+GIU - UI Framework
+for GO
+
+<td>
+
+The major HellSpawner's dependency (responsible for UI stuff) was [giu](https://github.com/AllenDang/giu).
+At the beginning of my contribution
+I was mainly adding improvements related to my HellSpawner work. But when
+Hell Spawner collapsed, I've decided to start more active development in
+giu.
+After the author of giu - [@AllenDang](https://github.com/ALlenDang) started
+the cimgui-go project, I did a migration of giu from
+[imgui-go](https://github.com/inkyblackness/imgui-go) to cimgui-go
+Now I'm a paintainer of giu.
+
+<tr><td>
+
+01.06.2022 until now
+cimgui-go - Dear ImGui wrapper for go
+
+<td>
+
+Since December 31 2022, [cimgui-go](https://github.com/AllenDang/cimgui-go)
+is the only developed [Dear ImGui](https://github.com/ocornut/imgui)
+wrapper for go.
+I'm a maintainer of this project too.
+
+During its development, I've learned many interessting things
+about C++, C and cgo itself. I've also implemented converting
+go closures to C callbacks "convertion" (Which I hope noone used earlier).
+
+</table>
