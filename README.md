@@ -135,7 +135,7 @@ project of a scientific nature. Here are some of them:
 <tr><td>
 06.12.2024
 <td>
-I wrote a paper on the topic of Potential Barrier, Tuneling and Reflection mechanism. [source code and pdf](https://github.com/gucio321/potential-barrier-solution)
+I wrote a paper on the topic of Potential Barrier, Tuneling and Reflection mechanism. <a href="https://github.com/gucio321/potential-barrier-solution">source code and pdf</a>.
 <tr><td>
 01.10.2024-20.11.2024 - <a href="https://github.com/gucio321/spiffy">Spiffy - SVG to GCode converter</a>
 <td>
