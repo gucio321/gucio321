@@ -101,6 +101,15 @@ Now I'm a paintainer of giu.
 
 <tr><td>
 
+27.10.2021 - 18.06.2022 - sCHEMe computer game.
+
+<td>
+
+With a group of friends I've participated in a competition called
+Turniej Trójgamiczny. We've created a game called [sCHEMe](https://scheme.noip.pl).
+
+<tr><td>
+
 01.06.2022 until now
 cimgui-go - Dear ImGui wrapper for go
 
@@ -115,4 +124,21 @@ During its development, I've learned many interessting things
 about C++, C and cgo itself. I've also implemented converting
 go closures to C callbacks "convertion" (Which I hope noone used earlier).
 
+</table>
+
+# Scientific work / research.
+
+A sa student on [AGH UST](https://agh.edu.pl) I've also participated in some
+project of a scientific nature. Here are some of them:
+
+<table>
+<tr><td>
+06.12.2024
+<td>
+I wrote a paper on the topic of Potential Barrier, Tuneling and Reflection mechanism. [source code and pdf](https://github.com/gucio321/potential-barrier-solution)
+<tr><td>
+01.10.2024-20.11.2024 - [Spiffy - SVG to GCode converter](https://github.com/gucio321/spiffy)
+<td>
+As a part of [GR24](https://dss.agh.edu.pl/organizacje-studenckie/grant-rektora/edycja-2024) my science club [PROMAT](http://promat.agh.edu.pl) created a "Point Incremental Forming" machine [read more about that technology](https://www.sciencedirect.com/topics/engineering/point-incremental-forming).
+I was responsible for SVG to GCode converter. The project was written in Go and uses [inkscape](https://inkscape.org/)'s API for some pre-processing. This project also contains a small visualisation app using [Ebiten](https://ebitengine.org).
 </table>
