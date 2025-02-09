@@ -9,7 +9,7 @@
 <h1 align="center">What am I working on</h1>
 
 Hi! \
-My name is Maciej. I'm a student on the [Akademia Górniczo-Hutnicza](https://agh.edu.pl) university.
+My name is Maciej. I'm a student on the [AGH University of Krakow](https://agh.edu.pl/en/) university.
 
 The most important things I'm currently working on:
 - [giu](https://github.com/AllenDang/giu) development.
