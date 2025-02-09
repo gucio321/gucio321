@@ -137,8 +137,8 @@ project of a scientific nature. Here are some of them:
 <td>
 I wrote a paper on the topic of Potential Barrier, Tuneling and Reflection mechanism. [source code and pdf](https://github.com/gucio321/potential-barrier-solution)
 <tr><td>
-01.10.2024-20.11.2024 - [Spiffy - SVG to GCode converter](https://github.com/gucio321/spiffy)
+01.10.2024-20.11.2024 - <a href="https://github.com/gucio321/spiffy">Spiffy - SVG to GCode converter</a>
 <td>
-As a part of [GR24](https://dss.agh.edu.pl/organizacje-studenckie/grant-rektora/edycja-2024) my science club [PROMAT](http://promat.agh.edu.pl) created a "Point Incremental Forming" machine [read more about that technology](https://www.sciencedirect.com/topics/engineering/point-incremental-forming).
-I was responsible for SVG to GCode converter. The project was written in Go and uses [inkscape](https://inkscape.org/)'s API for some pre-processing. This project also contains a small visualisation app using [Ebiten](https://ebitengine.org).
+As a part of <a href="https://dss.agh.edu.pl/organizacje-studenckie/grant-rektora/edycja-2024) my science club [PROMAT](http://promat.agh.edu.pl) created a "Point Incremental Forming" machine [read more about that technology](https://www.sciencedirect.com/topics/engineering/point-incremental-forming">GR24</a>.
+I was responsible for SVG to GCode converter. The project was written in Go and uses <a href="https://inkscape.org/">inkscape</a>'s API for some pre-processing. This project also contains a small visualisation app using <a href="https://ebitengine.org">Ebiten</a>.
 </table>
