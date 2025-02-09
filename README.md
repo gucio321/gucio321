@@ -24,8 +24,11 @@ Unfortunatley generator's code still needs improvements.
 Let me know what do you think about it! Also, if you're interessted in
 re-activating the website or contributing to it, post
 <a href="https://github.com/gucio321/fizyka/discussions/5">In a discussion here</a>!
-- Recently I've also added a chapter for my collage course on the previously mentioned website.
-- I'v ealso launched a new website for advanced math course. [See here](https://gucio321.github.io/matematyka).
+- I'v also launched another website for my study notes (in field of Technical Physics). [See here](https://gucio321.github.io/matematyka).
+
+> [!important]
+> I can help with or either host for you a website similar to that one with math ([this one](https://gucio321.github.io/matematyka)).
+> Feel free to contact me for mor details (via discord or email).
 
 # Timeline
 
