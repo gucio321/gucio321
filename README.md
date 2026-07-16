@@ -132,7 +132,7 @@ go closures to C callbacks "convertion" (Which I hope noone used earlier).
 # Scientific work / research.
 
 As a student on [AGH UST](https://agh.edu.pl) I've also participated in some
-project of a scientific nature. Here are some of them:
+project of a scientific nature. I put most of them in the [gucio321-studies](https://github.com/gucio321-studies) organisation. Here are some of them:
 
 <table>
 <tr><td>
